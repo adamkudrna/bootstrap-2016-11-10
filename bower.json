@@ -1,4 +1,6 @@
 {
+  "name": "bootstrap-2016-11-10",
+  "license": "unlicensed",
   "dependencies": {
     "bootstrap": "^3.3.7"
   }
